@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "272918551371",
+    "firebase_url": "https://clasemamaniprueba-default-rtdb.firebaseio.com",
+    "project_id": "clasemamaniprueba",
+    "storage_bucket": "clasemamaniprueba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272918551371:android:83777fca5e47b3c8a7a6ce",
+        "android_client_info": {
+          "package_name": "tecsup.edu.apprichardmamaniemergentes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "272918551371-jj2clcd44v9pa8upbq1n5o1ss9ptdi8o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-1ZNl-ge4J6mNb5v1VSNBDA8s6EqzOkM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "272918551371-jj2clcd44v9pa8upbq1n5o1ss9ptdi8o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
