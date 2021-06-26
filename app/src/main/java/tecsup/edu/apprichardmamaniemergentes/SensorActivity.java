@@ -36,6 +36,10 @@ public class SensorActivity extends AppCompatActivity {
         database = FirebaseDatabase.getInstance();
         myRef = database.getReference("Sensor");
 
+        
+
+
+
         //3. OPERACIONES Y METODOS
         // Read from the database
         myRef.addValueEventListener(new ValueEventListener() {

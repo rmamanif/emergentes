@@ -20,21 +20,14 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:orientation="vertical">
+
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="Temperatura"
                 android:textAlignment="center"
                 android:layout_margin="10dp"/>
-            <TextView
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:text="22.0"
-                android:textSize="70dp"
-                android:textStyle="bold"
-                android:textAlignment="center"
-                android:id="@+id/lblTemperatura"
-                android:layout_margin="20dp"/>
+
         </LinearLayout>
     </androidx.cardview.widget.CardView>
 
@@ -49,6 +42,17 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/lblTemperatura"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="20dp"
+                android:text="22.0"
+                android:textAlignment="center"
+                android:textSize="70dp"
+                android:textStyle="bold" />
+
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"

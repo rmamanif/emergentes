@@ -8,7 +8,6 @@
     android:orientation="vertical"
     android:gravity="center_vertical"
     tools:context=".InicioActivity">
-
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -21,5 +20,10 @@
         android:layout_margin="10dp"
         android:id="@+id/btnMenu2"
         android:text="ABRIR SENSOR"/>
-
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:id="@+id/btnMenu3"
+        android:text="Menú RGB"/>
 </LinearLayout>
